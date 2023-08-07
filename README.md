@@ -1,4 +1,7 @@
 # Shoe-page
+HostedLink:
+https://yadnika10.github.io/Shoe-page/
+<br>
 ![1](https://github.com/yadnika10/Shoe-page/assets/122971264/0b7813a8-e869-429d-88aa-74166394bd09)
 ![2](https://github.com/yadnika10/Shoe-page/assets/122971264/5326ea4b-045b-48d5-9266-159edf0af175)
 ![3](https://github.com/yadnika10/Shoe-page/assets/122971264/20cd5905-b2ae-40d0-b7be-9af6700a6bfc)<br>
